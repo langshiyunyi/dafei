@@ -1,3 +1,19 @@
+Package: com.dafei.swiftenterprisedemo
+Version: 1.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: DaFei
+Installed-Size: 332
+Depends: firmware (>= 14.0)
+Filename: debs/com.dafei.swiftenterprisedemo_1.0.1-1+debug_iphoneos-arm64.deb
+Size: 56134
+MD5sum: 6a25275676825f317364ac8756786ab3
+SHA1: 27db2f51d12c2dcc02a5fdf99251ae19a89cca99
+SHA256: 784e4ff8ecfd918bead6125badbd4e31c6f77d2385d9cc46897be97ae826a63c
+Section: Utilities
+Description: Swift-style card demo app for mobile Theos rootless development.
+Author: DaFei
+Name: SwiftEnterpriseDemo
+
 Package: com.dynamicisland.tweak
 Version: 1.2.0-38+debug
 Architecture: iphoneos-arm64
