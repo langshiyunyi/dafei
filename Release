@@ -1,0 +1,24 @@
+Origin: DaFei
+Label: DaFei
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: 个人越狱源
+Date: Wed, 10 Jun 2026 16:30:04 UTC
+
+MD5Sum:
+ 4073eddfe7a9e37a357a9d853ff9df4a 543 Packages
+ 4b49a840b065e1ca02290444e7024039 383 Packages.gz
+ 2260dd00c799ce584ba362c28445011b 380 Packages.zst
+ e6a8fed1aeb6067345a4f5c305152c77 414 Packages.bz2
+ 950d0cfbb2c72d5a321c29ec91dceef9 452 Packages.xz
+
+SHA256:
+ f732a04587a526517f68f01b73d5efd1d183ee06fd4b42366b8c54361351aa34 543 Packages
+ fd687e0727135c5448c749d4d47e4bff621d03f2b2406c29033c8b4aa3483cbb 383 Packages.gz
+ 2ce7075372db9b8566954cc2db601303e9eacfcf0db5bb4ff5a4614823a60f78 380 Packages.zst
+ d01e756dccc1bd6cd9100b34ce7e4633a88852482447973615f127fb592caad6 414 Packages.bz2
+ 6007facf7cff888495dd3a5b7f0c6bf0c869cd928ff779a5e3a2506febd2cdba 452 Packages.xz
+
