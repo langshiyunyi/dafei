@@ -1,15 +1,15 @@
 Package: com.dafei.swiftenterprisedemo
-Version: 1.0.1-1+debug
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: DaFei
 Installed-Size: 332
 Depends: firmware (>= 14.0)
 Filename: debs/com.dafei.swiftenterprisedemo_1.0.1-1+debug_iphoneos-arm64.deb
-Size: 56134
-MD5sum: 6a25275676825f317364ac8756786ab3
-SHA1: 27db2f51d12c2dcc02a5fdf99251ae19a89cca99
-SHA256: 784e4ff8ecfd918bead6125badbd4e31c6f77d2385d9cc46897be97ae826a63c
-Section: Utilities
+Size: 52872
+MD5sum: 4e90e624896361bc64e6aeef1de77770
+SHA1: ea8a7bb24b0c49926ec5b3d366de46c6e6a68a65
+SHA256: 2d2a6195371adcf6d9a6547c0d81ebe12d62a61d2430c39c2265adf2551ff8bc
+Section: Tweaks
 Description: Swift-style card demo app for mobile Theos rootless development.
 Author: DaFei
 Name: SwiftEnterpriseDemo
@@ -21,12 +21,13 @@ Maintainer: DaFei
 Installed-Size: 364
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.dynamicisland.tweak_1.2.0-38+debug_iphoneos-arm64.deb
-Size: 54662
-MD5sum: aefdb17aad15112c90f369a93cb82eda
-SHA1: 7153e7e6739870770fe6ea95d2e7d23cfac55a5c
-SHA256: 5624a8ed6f385f70e974e8146decbc5da8a6aadd0c52a754b562a3e044415a2d
+Size: 50620
+MD5sum: 2486a52bdf0ea7f4b978eb5cddf98541
+SHA1: 7ec49bcf29b1d9d3d17577a24a7e77406bcc6bb4
+SHA256: bb6b6aaa709455e3c30f1e58cdbab24ea6bfff877ee1ef42f44a0468ffaa7a1d
 Section: Tweaks
 Description: Dynamic Island style unified music and notification overlay
 Author: DaFei
+Icon: https://github.com/langshiyunyi/DaFei/icons/com.dynamicisland.tweak.png
 Name: DynamicIsland Tweak
 
