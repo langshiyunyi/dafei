@@ -21,13 +21,13 @@ Maintainer: DaFei
 Installed-Size: 364
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.dynamicisland.tweak_1.2.0-38+debug_iphoneos-arm64.deb
-Size: 50620
-MD5sum: 2486a52bdf0ea7f4b978eb5cddf98541
-SHA1: 7ec49bcf29b1d9d3d17577a24a7e77406bcc6bb4
-SHA256: bb6b6aaa709455e3c30f1e58cdbab24ea6bfff877ee1ef42f44a0468ffaa7a1d
+Size: 50624
+MD5sum: 2cae2e0d66fc40babb79632fc0f7eacf
+SHA1: 61dbf1b6a5a5f9fe21c308160759cabb45097f31
+SHA256: 70f6701efec912cb1d98e0dcc5fdeea56385c378b335dec6b2cebacfb6970f92
 Section: Tweaks
 Description: Dynamic Island style unified music and notification overlay
 Author: DaFei
-Icon: https://github.com/langshiyunyi/DaFei/icons/com.dynamicisland.tweak.png
+Icon: https://langshiyunyi.github.io/dafei/icons/dynamicisland-tweak.png
 Name: DynamicIsland Tweak
 
