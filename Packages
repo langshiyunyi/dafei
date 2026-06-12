@@ -1,3 +1,61 @@
+Package: apt
+Version: 2.9.4-1
+Architecture: iphoneos-arm64
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 4908
+Pre-Depends: dpkg (>= 1.14.25-8), system-cmds (>= 854.40.2-2)
+Depends: libiosexec1 (>= 1.3.1), libapt-pkg6.0 (= 2.9.4-1), libgnutls30, gpgv, dpkg (>= 1.19.0), coreutils, procursus-keyring
+Conflicts: apt7 (<< 1:0), apt1.4 (<< 1:0), apt1.8, libapt-pkg5.0 (<< 1:0), libapt (<< 1:0), apt-key (<< 1:0)
+Replaces: apt1.8, apt1.4, libapt, libapt-pkg5.0, apt-lib, apt-key
+Provides: apt1.8 (= 1:0), apt-lib (= 1:0), libapt (= 1:0), apt-key (= 1:0)
+Filename: debs/apt_2.9.4-1_iphoneos-arm64.deb
+Size: 1228
+MD5sum: dc105c2993b76385cdf8e02aa549c4ef
+SHA1: 9d39dd1f186c4e2c9206359be3982d7d081a564d
+SHA256: fd3507b37af678203934840295f92c6c28f073fd3d9f3b6465c62714f7d8d283
+Section: Packaging
+Priority: required
+Description: commandline package manager
+ This package provides commandline tools for searching and
+ managing as well as querying information about packages
+ as a low-level access to all features of the libapt-pkg library.
+
+Package: byg.iosios.net.underdock
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 680
+Depends: mobilesubstrate
+Conflicts: com.restiveconch.actionbar, com.udevs.dockx
+Filename: debs/byg.iosios.net.underdock_1.3_iphoneos-arm64.deb
+Size: 1164
+MD5sum: 4329d630a3be5f4c9af9ab858bedac22
+SHA1: bcd3efe8aaaffde458336fcd863c78ea984e1dda
+SHA256: 747297116ba18bbb2c01ac7e76f1c6b8f966f0a12b8bc8b41b05f47493c4e8b4
+Section: 系统增强
+Description: 给原生键盘和第三方键盘增加复制、粘贴、换行、撤销等按钮，还不错的一款键盘增强插件，搬运工源已汉化，尽情享受搬运工源带来的越狱乐趣吧，搬运工源永久免费！越狱不倒，陪你到老！
+Author: P2KDev
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: UnderDock键盘增强-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.zhuxiao
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Filename: debs/byg.iosios.net.zhuxiao_0.0.3_iphoneos-arm64.deb
+Size: 932
+MD5sum: 4fdbe3a133a781b5e19adad4785e7e08
+SHA1: 3e5f1f9446e82e6cdc26b5459f01c3eb582a7901
+SHA256: 2e93134f989194e9604bf137811bfdf18824a2c1664ce62a2d6ae8d5d53432dc
+Section: 杂七杂八
+Description: 在注销前是解锁状态的情况下，注销后自动跳过人脸或指纹识别到桌面。并不保证一定有效，无效请卸载！
+Author: Brend0n
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 注销不锁屏-Rootless
+Sponsor: 搬运工
+
 Package: com.dafei.swiftenterprisedemo
 Version: 1.0.1
 Architecture: iphoneos-arm64
