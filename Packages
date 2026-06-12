@@ -14,20 +14,3 @@ Description: Swift-style card demo app for mobile Theos rootless development.
 Author: DaFei
 Name: SwiftEnterpriseDemo
 
-Package: com.dynamicisland.tweak
-Version: 1.2.0-38+debug
-Architecture: iphoneos-arm64
-Maintainer: DaFei
-Installed-Size: 364
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.dynamicisland.tweak_1.2.0-38+debug_iphoneos-arm64.deb
-Size: 50624
-MD5sum: 2cae2e0d66fc40babb79632fc0f7eacf
-SHA1: 61dbf1b6a5a5f9fe21c308160759cabb45097f31
-SHA256: 70f6701efec912cb1d98e0dcc5fdeea56385c378b335dec6b2cebacfb6970f92
-Section: Tweaks
-Description: Dynamic Island style unified music and notification overlay
-Author: DaFei
-Icon: https://langshiyunyi.github.io/dafei/icons/dynamicisland-tweak.png
-Name: DynamicIsland Tweak
-
