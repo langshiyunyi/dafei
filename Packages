@@ -1,25 +1,3 @@
-Package: apt
-Version: 2.9.4-1
-Architecture: iphoneos-arm64
-Maintainer: Procursus Team <support@procurs.us>
-Installed-Size: 4908
-Pre-Depends: dpkg (>= 1.14.25-8), system-cmds (>= 854.40.2-2)
-Depends: libiosexec1 (>= 1.3.1), libapt-pkg6.0 (= 2.9.4-1), libgnutls30, gpgv, dpkg (>= 1.19.0), coreutils, procursus-keyring
-Conflicts: apt7 (<< 1:0), apt1.4 (<< 1:0), apt1.8, libapt-pkg5.0 (<< 1:0), libapt (<< 1:0), apt-key (<< 1:0)
-Replaces: apt1.8, apt1.4, libapt, libapt-pkg5.0, apt-lib, apt-key
-Provides: apt1.8 (= 1:0), apt-lib (= 1:0), libapt (= 1:0), apt-key (= 1:0)
-Filename: debs/apt_2.9.4-1_iphoneos-arm64.deb
-Size: 1228
-MD5sum: dc105c2993b76385cdf8e02aa549c4ef
-SHA1: 9d39dd1f186c4e2c9206359be3982d7d081a564d
-SHA256: fd3507b37af678203934840295f92c6c28f073fd3d9f3b6465c62714f7d8d283
-Section: Packaging
-Priority: required
-Description: commandline package manager
- This package provides commandline tools for searching and
- managing as well as querying information about packages
- as a low-level access to all features of the libapt-pkg library.
-
 Package: byg.iosios.net.snapper3
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -73,20 +51,4 @@ Author: Brend0n
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 注销不锁屏-Rootless
 Sponsor: 搬运工
-
-Package: com.dafei.swiftenterprisedemo
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: DaFei
-Installed-Size: 332
-Depends: firmware (>= 14.0)
-Filename: debs/com.dafei.swiftenterprisedemo_1.0.1-1+debug_iphoneos-arm64.deb
-Size: 52872
-MD5sum: 4e90e624896361bc64e6aeef1de77770
-SHA1: ea8a7bb24b0c49926ec5b3d366de46c6e6a68a65
-SHA256: 2d2a6195371adcf6d9a6547c0d81ebe12d62a61d2430c39c2265adf2551ff8bc
-Section: Tweaks
-Description: Swift-style card demo app for mobile Theos rootless development.
-Author: DaFei
-Name: SwiftEnterpriseDemo
 
